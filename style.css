@@ -1,0 +1,65 @@
+  .Pink_btn_1
+  {
+    background-color:F58F84;
+    font-size:23px;
+    color:DB5A6B;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px F47983;
+  }
+  .pink_heading_div
+  {
+    background-color: FCC9B9 ; 
+    border-radius: 20px; 
+    color: F58F84;
+    box-shadow:5px 5px 5px FFB3A7;
+    text-align: center;
+    float:none;
+  }
+  .Pink_btn_2
+  {
+    font-size: 18px ;
+    color: F58F84;
+    background-color: FFB3A7;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px DB5A6B;
+  }
+  .pink_object
+  {
+    box-shadow:5px 5px 5px #F47983;
+    font-size: 20px;
+  }
+
+  .pink_background{
+    background-size: cover;
+  }
+
+  .pink_object span{
+white-space:pre-line;
+  }
+
+  .copy_right_footer{
+    position:fixed;
+    color: pink;
+    bottom:0;
+    width:100%;
+    background-color:F58F84;
+    line-height:3;
+    text-align: center;
+  }
+
+  canvas{
+    border:5px solid #FFB3A7;
+    border-radius: 20px;
+    box-shadow:5px 5px 10px lightpink;
+    margin-top:160px;
+  }
+
+  .pink_accuracy span{
+    white-space:pre-line;
+  }
+ 
+  .pink_accuracy{
+    box-shadow:5px 5px 5px #F47983;
+    font-size: 20px;
+  }
